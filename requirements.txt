@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+torch
+torchaudio
+requests
+tqdm
+scikit-learn
+httpx
+wget
+duckduckgo_search
+nltk
+Pillow
+sentencepiece
+gradio==5.16.0
